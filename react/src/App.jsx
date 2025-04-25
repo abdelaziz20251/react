@@ -24,7 +24,7 @@ const App = () => {
   }
   const reset = () =>{
     setCounter(0)
-  }
+  } 
 
 return (
 <>
